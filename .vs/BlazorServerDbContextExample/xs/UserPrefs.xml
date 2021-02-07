@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{7ED17BD2-6B56-4684-BF14-A2B9BD82C1BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.razor">
+    <Files>
+      <File FileName="Data/EditSuccess.cs" Line="1" Column="39" />
+      <File FileName="Data/Todo.cs" Line="1" Column="1" />
+      <File FileName="Data/TodoContext.cs" Line="18" Column="56" />
+      <File FileName="Startup.cs" Line="30" Column="1" />
+      <File FileName="Program.cs" Line="56" Column="82" />
+      <File FileName="App.razor" Line="1" Column="1" />
+      <File FileName="_Imports.razor" Line="11" Column="41" />
+      <File FileName="Shared/NavMenu.razor" Line="1" Column="1" />
+      <File FileName="Pages/Index.razor" Line="105" Column="24" />
+      <File FileName="Pages/Login.razor" Line="12" Column="35" />
+      <File FileName="Pages/Logout.razor" Line="9" Column="4" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Shared/MainLayout.razor" Line="5" Column="9" />
+      <File FileName="Pages/_Host.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorServerDbContextExample" expanded="True">
+            <Node name="BlazorServerDbContextExample" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlazorServerDbContextExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
